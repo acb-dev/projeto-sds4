@@ -11,4 +11,3 @@ public class DsvendasApplication {
 	}
 
 }
-/* só para ter algo para gravar no GitHub */
